@@ -33,7 +33,7 @@ let string =`
    height: 100px;
    top: 0;
    left: 50%;
-   transform: translate(-50%);
+   transform: translateX(-50%);
    background: #000;
    border-radius: 50%;
    background: radial-gradient(circle,
@@ -45,7 +45,7 @@ let string =`
     height: 100px;
     bottom: 0;
     left: 50%;
-    transform: translate(-50%);
+    transform: translateX(-50%);
     background: #fff;
     border-radius: 50%;
     background: radial-gradient(circle,
